@@ -73,6 +73,18 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 </a>
 <a href="https://www.djangoproject.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
+</a>
+<a href="https://getbootstrap.com/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
+</a>
+<a href="https://mui.com/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="materialUI" width="40" height="40"/> 
+</a>
+<a href="https://tailwindcss.com/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="materialUI" width="40" height="40"/> 
+</a>
+<a href="https://code.visualstudio.com/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="materialUI" width="40" height="40"/> 
 </a>
 </p>
