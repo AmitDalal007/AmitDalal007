@@ -7,12 +7,12 @@
 <!-- <p align="center">
    <img src=" https://github-readme-stats.vercel.app/api?username=AmitDalal007&theme=synthwave&show_icons=true" />
 </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmitDalal007&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="Sakshi" /></p> -->
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmitDalal007&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="AmitDalal007" /></p> -->
 <p align="center">
 <img src = "https://github-readme-stats.vercel.app/api?username=AmitDalal007&show_icons=true&theme=synthwave"/>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmitDalal007&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="Sakshi" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmitDalal007&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="AmitDalal007" /></p>
 
 <hr/>
 
